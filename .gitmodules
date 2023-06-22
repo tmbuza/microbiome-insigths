@@ -1,0 +1,24 @@
+[submodule "imap-software-requirements"]
+	path = imap-software-requirements
+	url = https://github.com/tmbuza/imap-software-requirements.git
+[submodule "imap-sample-metadata"]
+	path = imap-sample-metadata
+	url = https://github.com/tmbuza/imap-sample-metadata.git
+[submodule "imap-read-quality-control"]
+	path = imap-read-quality-control
+	url = https://github.com/tmbuza/imap-read-quality-control.git
+[submodule "imap-download-sra-reads"]
+	path = imap-download-sra-reads
+	url = https://github.com/tmbuza/imap-download-sra-reads.git
+[submodule "imap-bioinformatics-mothur"]
+	path = imap-bioinformatics-mothur
+	url = https://github.com/tmbuza/imap-bioinformatics-mothur.git
+[submodule "imap-bioinformatics-qiime2"]
+	path = imap-bioinformatics-qiime2
+	url = https://github.com/tmbuza/imap-bioinformatics-qiime2.git
+[submodule "imap-data-processing"]
+	path = imap-data-processing
+	url = https://github.com/tmbuza/imap-data-processing.git
+[submodule "imap-exploratory-analysis"]
+	path = imap-exploratory-analysis
+	url = https://github.com/tmbuza/imap-exploratory-analysis.git
